@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'themify';
-	src:url('/wp-content/themes/bildpress/assets/fonts/themify.eot?-fvbane');
-	src:url('/wp-content/themes/bildpress/assets/fonts/themify.eot#iefix-fvbane') format('embedded-opentype'),
-		url('/wp-content/themes/bildpress/assets/fonts/themify.woff?-fvbane') format('woff'),
-		url('/wp-content/themes/bildpress/assets/fonts/themify.ttf?-fvbane') format('truetype'),
-		url('/wp-content/themes/bildpress/assets/fonts/themify.svg?-fvbane#themify') format('svg');
+	src:url('https://peaceful-hotteok-9b6751.netlify.app/wp-content/themes/bildpress/assets/fonts/themify.eot?-fvbane');
+	src:url('https://peaceful-hotteok-9b6751.netlify.app/wp-content/themes/bildpress/assets/fonts/themify.eot#iefix-fvbane') format('embedded-opentype'),
+		url('https://peaceful-hotteok-9b6751.netlify.app/wp-content/themes/bildpress/assets/fonts/themify.woff?-fvbane') format('woff'),
+		url('https://peaceful-hotteok-9b6751.netlify.app/wp-content/themes/bildpress/assets/fonts/themify.ttf?-fvbane') format('truetype'),
+		url('https://peaceful-hotteok-9b6751.netlify.app/wp-content/themes/bildpress/assets/fonts/themify.svg?-fvbane#themify') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
